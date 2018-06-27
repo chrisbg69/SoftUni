@@ -1,0 +1,11 @@
+C:\Users\Ilidis2014\Desktop\Methods_Debugging_and_Troubleshooting_Code\Problem02\bin\Debug\netcoreapp2.0\Problem02.deps.json
+C:\Users\Ilidis2014\Desktop\Methods_Debugging_and_Troubleshooting_Code\Problem02\bin\Debug\netcoreapp2.0\Problem02.runtimeconfig.json
+C:\Users\Ilidis2014\Desktop\Methods_Debugging_and_Troubleshooting_Code\Problem02\bin\Debug\netcoreapp2.0\Problem02.runtimeconfig.dev.json
+C:\Users\Ilidis2014\Desktop\Methods_Debugging_and_Troubleshooting_Code\Problem02\bin\Debug\netcoreapp2.0\Problem02.dll
+C:\Users\Ilidis2014\Desktop\Methods_Debugging_and_Troubleshooting_Code\Problem02\bin\Debug\netcoreapp2.0\Problem02.pdb
+C:\Users\Ilidis2014\Desktop\Methods_Debugging_and_Troubleshooting_Code\Problem02\obj\Debug\netcoreapp2.0\Problem02.csprojAssemblyReference.cache
+C:\Users\Ilidis2014\Desktop\Methods_Debugging_and_Troubleshooting_Code\Problem02\obj\Debug\netcoreapp2.0\Problem02.csproj.CoreCompileInputs.cache
+C:\Users\Ilidis2014\Desktop\Methods_Debugging_and_Troubleshooting_Code\Problem02\obj\Debug\netcoreapp2.0\Problem02.AssemblyInfoInputs.cache
+C:\Users\Ilidis2014\Desktop\Methods_Debugging_and_Troubleshooting_Code\Problem02\obj\Debug\netcoreapp2.0\Problem02.AssemblyInfo.cs
+C:\Users\Ilidis2014\Desktop\Methods_Debugging_and_Troubleshooting_Code\Problem02\obj\Debug\netcoreapp2.0\Problem02.dll
+C:\Users\Ilidis2014\Desktop\Methods_Debugging_and_Troubleshooting_Code\Problem02\obj\Debug\netcoreapp2.0\Problem02.pdb

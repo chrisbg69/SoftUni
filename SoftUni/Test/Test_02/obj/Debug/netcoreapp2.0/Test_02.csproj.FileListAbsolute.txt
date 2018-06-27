@@ -1,0 +1,11 @@
+C:\Users\Ilidis2014\Desktop\SoftUni\Test\Test_02\bin\Debug\netcoreapp2.0\Test_02.deps.json
+C:\Users\Ilidis2014\Desktop\SoftUni\Test\Test_02\bin\Debug\netcoreapp2.0\Test_02.runtimeconfig.json
+C:\Users\Ilidis2014\Desktop\SoftUni\Test\Test_02\bin\Debug\netcoreapp2.0\Test_02.runtimeconfig.dev.json
+C:\Users\Ilidis2014\Desktop\SoftUni\Test\Test_02\bin\Debug\netcoreapp2.0\Test_02.dll
+C:\Users\Ilidis2014\Desktop\SoftUni\Test\Test_02\bin\Debug\netcoreapp2.0\Test_02.pdb
+C:\Users\Ilidis2014\Desktop\SoftUni\Test\Test_02\obj\Debug\netcoreapp2.0\Test_02.csprojAssemblyReference.cache
+C:\Users\Ilidis2014\Desktop\SoftUni\Test\Test_02\obj\Debug\netcoreapp2.0\Test_02.csproj.CoreCompileInputs.cache
+C:\Users\Ilidis2014\Desktop\SoftUni\Test\Test_02\obj\Debug\netcoreapp2.0\Test_02.AssemblyInfoInputs.cache
+C:\Users\Ilidis2014\Desktop\SoftUni\Test\Test_02\obj\Debug\netcoreapp2.0\Test_02.AssemblyInfo.cs
+C:\Users\Ilidis2014\Desktop\SoftUni\Test\Test_02\obj\Debug\netcoreapp2.0\Test_02.dll
+C:\Users\Ilidis2014\Desktop\SoftUni\Test\Test_02\obj\Debug\netcoreapp2.0\Test_02.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ilidis2014\Desktop\Data-Types-and-Variables-Exercises\Problem19\obj\Debug\netcoreapp2.0\Problem19.csprojAssemblyReference.cache
+C:\Users\Ilidis2014\Desktop\Data-Types-and-Variables-Exercises\Problem19\obj\Debug\netcoreapp2.0\Problem19.csproj.CoreCompileInputs.cache
+C:\Users\Ilidis2014\Desktop\Data-Types-and-Variables-Exercises\Problem19\obj\Debug\netcoreapp2.0\Problem19.AssemblyInfoInputs.cache
+C:\Users\Ilidis2014\Desktop\Data-Types-and-Variables-Exercises\Problem19\obj\Debug\netcoreapp2.0\Problem19.AssemblyInfo.cs
+C:\Users\Ilidis2014\Desktop\Data-Types-and-Variables-Exercises\Problem19\bin\Debug\netcoreapp2.0\Problem19.deps.json
+C:\Users\Ilidis2014\Desktop\Data-Types-and-Variables-Exercises\Problem19\bin\Debug\netcoreapp2.0\Problem19.runtimeconfig.json
+C:\Users\Ilidis2014\Desktop\Data-Types-and-Variables-Exercises\Problem19\bin\Debug\netcoreapp2.0\Problem19.runtimeconfig.dev.json
+C:\Users\Ilidis2014\Desktop\Data-Types-and-Variables-Exercises\Problem19\bin\Debug\netcoreapp2.0\Problem19.dll
+C:\Users\Ilidis2014\Desktop\Data-Types-and-Variables-Exercises\Problem19\bin\Debug\netcoreapp2.0\Problem19.pdb
+C:\Users\Ilidis2014\Desktop\Data-Types-and-Variables-Exercises\Problem19\obj\Debug\netcoreapp2.0\Problem19.dll
+C:\Users\Ilidis2014\Desktop\Data-Types-and-Variables-Exercises\Problem19\obj\Debug\netcoreapp2.0\Problem19.pdb

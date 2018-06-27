@@ -1,0 +1,11 @@
+C:\Users\Ilidis2014\Desktop\Data-Types-and-Variables-More Exercises\Problem08\bin\Debug\netcoreapp2.0\Problem08.deps.json
+C:\Users\Ilidis2014\Desktop\Data-Types-and-Variables-More Exercises\Problem08\bin\Debug\netcoreapp2.0\Problem08.runtimeconfig.json
+C:\Users\Ilidis2014\Desktop\Data-Types-and-Variables-More Exercises\Problem08\bin\Debug\netcoreapp2.0\Problem08.runtimeconfig.dev.json
+C:\Users\Ilidis2014\Desktop\Data-Types-and-Variables-More Exercises\Problem08\bin\Debug\netcoreapp2.0\Problem08.dll
+C:\Users\Ilidis2014\Desktop\Data-Types-and-Variables-More Exercises\Problem08\bin\Debug\netcoreapp2.0\Problem08.pdb
+C:\Users\Ilidis2014\Desktop\Data-Types-and-Variables-More Exercises\Problem08\obj\Debug\netcoreapp2.0\Problem08.csprojAssemblyReference.cache
+C:\Users\Ilidis2014\Desktop\Data-Types-and-Variables-More Exercises\Problem08\obj\Debug\netcoreapp2.0\Problem08.csproj.CoreCompileInputs.cache
+C:\Users\Ilidis2014\Desktop\Data-Types-and-Variables-More Exercises\Problem08\obj\Debug\netcoreapp2.0\Problem08.AssemblyInfoInputs.cache
+C:\Users\Ilidis2014\Desktop\Data-Types-and-Variables-More Exercises\Problem08\obj\Debug\netcoreapp2.0\Problem08.AssemblyInfo.cs
+C:\Users\Ilidis2014\Desktop\Data-Types-and-Variables-More Exercises\Problem08\obj\Debug\netcoreapp2.0\Problem08.dll
+C:\Users\Ilidis2014\Desktop\Data-Types-and-Variables-More Exercises\Problem08\obj\Debug\netcoreapp2.0\Problem08.pdb

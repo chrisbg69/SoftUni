@@ -1,0 +1,11 @@
+C:\Users\Ilidis2014\Desktop\Methods_Debugging_and_Troubles_Code_Exersices\Problem14\bin\Debug\netcoreapp2.0\Problem14.deps.json
+C:\Users\Ilidis2014\Desktop\Methods_Debugging_and_Troubles_Code_Exersices\Problem14\bin\Debug\netcoreapp2.0\Problem14.runtimeconfig.json
+C:\Users\Ilidis2014\Desktop\Methods_Debugging_and_Troubles_Code_Exersices\Problem14\bin\Debug\netcoreapp2.0\Problem14.runtimeconfig.dev.json
+C:\Users\Ilidis2014\Desktop\Methods_Debugging_and_Troubles_Code_Exersices\Problem14\bin\Debug\netcoreapp2.0\Problem14.dll
+C:\Users\Ilidis2014\Desktop\Methods_Debugging_and_Troubles_Code_Exersices\Problem14\bin\Debug\netcoreapp2.0\Problem14.pdb
+C:\Users\Ilidis2014\Desktop\Methods_Debugging_and_Troubles_Code_Exersices\Problem14\obj\Debug\netcoreapp2.0\Problem14.csprojAssemblyReference.cache
+C:\Users\Ilidis2014\Desktop\Methods_Debugging_and_Troubles_Code_Exersices\Problem14\obj\Debug\netcoreapp2.0\Problem14.csproj.CoreCompileInputs.cache
+C:\Users\Ilidis2014\Desktop\Methods_Debugging_and_Troubles_Code_Exersices\Problem14\obj\Debug\netcoreapp2.0\Problem14.AssemblyInfoInputs.cache
+C:\Users\Ilidis2014\Desktop\Methods_Debugging_and_Troubles_Code_Exersices\Problem14\obj\Debug\netcoreapp2.0\Problem14.AssemblyInfo.cs
+C:\Users\Ilidis2014\Desktop\Methods_Debugging_and_Troubles_Code_Exersices\Problem14\obj\Debug\netcoreapp2.0\Problem14.dll
+C:\Users\Ilidis2014\Desktop\Methods_Debugging_and_Troubles_Code_Exersices\Problem14\obj\Debug\netcoreapp2.0\Problem14.pdb
